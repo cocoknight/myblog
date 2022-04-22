@@ -1,0 +1,10 @@
+C:\myworld\VSProject\WorkerHandler\HelloWorker\bin\Debug\HelloWorker.exe.config
+C:\myworld\VSProject\WorkerHandler\HelloWorker\bin\Debug\HelloWorker.exe
+C:\myworld\VSProject\WorkerHandler\HelloWorker\bin\Debug\HelloWorker.pdb
+C:\myworld\VSProject\WorkerHandler\HelloWorker\obj\Debug\HelloWorker.csprojAssemblyReference.cache
+C:\myworld\VSProject\WorkerHandler\HelloWorker\obj\Debug\HelloWorker.CProgressForm.resources
+C:\myworld\VSProject\WorkerHandler\HelloWorker\obj\Debug\HelloWorker.Form1.resources
+C:\myworld\VSProject\WorkerHandler\HelloWorker\obj\Debug\HelloWorker.Properties.Resources.resources
+C:\myworld\VSProject\WorkerHandler\HelloWorker\obj\Debug\HelloWorker.csproj.GenerateResource.cache
+C:\myworld\VSProject\WorkerHandler\HelloWorker\obj\Debug\HelloWorker.exe
+C:\myworld\VSProject\WorkerHandler\HelloWorker\obj\Debug\HelloWorker.pdb
