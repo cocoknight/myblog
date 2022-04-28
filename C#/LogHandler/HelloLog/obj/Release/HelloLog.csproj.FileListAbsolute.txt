@@ -1,0 +1,9 @@
+C:\myworld\VSProject\LogHandler\HelloLog\bin\Release\HelloLog.exe.config
+C:\myworld\VSProject\LogHandler\HelloLog\bin\Release\HelloLog.exe
+C:\myworld\VSProject\LogHandler\HelloLog\bin\Release\HelloLog.pdb
+C:\myworld\VSProject\LogHandler\HelloLog\obj\Release\HelloLog.Form1.resources
+C:\myworld\VSProject\LogHandler\HelloLog\obj\Release\HelloLog.Properties.Resources.resources
+C:\myworld\VSProject\LogHandler\HelloLog\obj\Release\HelloLog.csproj.GenerateResource.cache
+C:\myworld\VSProject\LogHandler\HelloLog\obj\Release\HelloLog.exe
+C:\myworld\VSProject\LogHandler\HelloLog\obj\Release\HelloLog.pdb
+C:\myworld\VSProject\LogHandler\HelloLog\obj\Release\HelloLog.csprojAssemblyReference.cache
