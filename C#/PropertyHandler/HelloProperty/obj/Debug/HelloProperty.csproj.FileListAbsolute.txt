@@ -1,0 +1,9 @@
+C:\myworld\VSProject\PropertyHandler\HelloProperty\obj\Debug\HelloProperty.csprojAssemblyReference.cache
+C:\myworld\VSProject\PropertyHandler\HelloProperty\obj\Debug\HelloProperty.Form1.resources
+C:\myworld\VSProject\PropertyHandler\HelloProperty\obj\Debug\HelloProperty.Properties.Resources.resources
+C:\myworld\VSProject\PropertyHandler\HelloProperty\obj\Debug\HelloProperty.csproj.GenerateResource.cache
+C:\myworld\VSProject\PropertyHandler\HelloProperty\bin\Debug\HelloProperty.exe.config
+C:\myworld\VSProject\PropertyHandler\HelloProperty\bin\Debug\HelloProperty.exe
+C:\myworld\VSProject\PropertyHandler\HelloProperty\bin\Debug\HelloProperty.pdb
+C:\myworld\VSProject\PropertyHandler\HelloProperty\obj\Debug\HelloProperty.exe
+C:\myworld\VSProject\PropertyHandler\HelloProperty\obj\Debug\HelloProperty.pdb
